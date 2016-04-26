@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Here are general guidelines we expect all members to follow:'
-datePublished: '2016-04-26T20:26:07.005Z'
-dateModified: '2016-04-26T20:25:44.075Z'
+datePublished: '2016-04-26T20:51:36.493Z'
+dateModified: '2016-04-26T20:50:16.918Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-here-are-general-guidelines-we-expect-all-members-to-follow.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-here-are-general-guidelines-we-expect-all-members-to-follow.md
-published: true
 url: here-are-general-guidelines-we-expect-all-members-to-follow/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8892c29f-5cf3-4fc4-bff0-3f392d50c111.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70238d4d-61c5-4d1b-bd3c-d21aa9bf5d55.png)
 
 Here are general guidelines we expect all members to follow:
 
