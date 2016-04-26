@@ -1,18 +1,23 @@
 ---
-authors: []
-dateModified: '2016-04-26T21:38:17.901Z'
-datePublished: '2016-04-26T21:38:40.525Z'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-publisher: {}
-title: Discord
 description: 'We use Discord as our main form of communication; feel free to join us there!'
+datePublished: '2016-04-26T22:38:03.263Z'
+dateModified: '2016-04-26T22:37:52.698Z'
+title: Discord
 author: []
-starred: false
 sourcePath: _posts/2016-04-26-we-use-discord-as-our-main-form-of-communication-feel-free.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: we-use-discord-as-our-main-form-of-communication-feel-free/index.html
 _type: Article
 
