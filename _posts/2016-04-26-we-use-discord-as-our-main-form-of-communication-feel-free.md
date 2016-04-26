@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'We use Discord as our main form of communication, feel free to join us there!'
-datePublished: '2016-04-26T20:51:25.318Z'
-dateModified: '2016-04-26T20:51:24.996Z'
+description: 'We use Discord as our main form of communication; feel free to join us there!'
+datePublished: '2016-04-26T20:53:44.299Z'
+dateModified: '2016-04-26T20:53:40.428Z'
 title: ''
 author:
   - name: ''
@@ -26,6 +26,6 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c829b9bda520f75c4694cda31efd30a027c2ec85.jpg)
 
-We use Discord as our main form of communication, feel free to[join us][0] there!
+We use Discord as our main form of communication; feel free to[join us][0] there!
 
 [0]: http://bit.ly/ascdrealm
