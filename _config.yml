@@ -1,4 +1,4 @@
-name: 'ASCENDED | BLACK DESERT ONLINE'
+name: ASCENDED BLACK DESERT ONLINE
 favicon: null
 layout_spectrum: 0.74737
 typography_spectrum: 0.31944
@@ -24,6 +24,6 @@ color:
     - '#b1b2b4'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.9375
+  saturation: 0.875
   rhythmicContrast: 0
 purpose: []
