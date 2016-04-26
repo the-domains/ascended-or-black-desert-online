@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Here lays the key to being an upstanding member of the community:'
-datePublished: '2016-04-26T23:20:38.314Z'
-dateModified: '2016-04-26T23:20:35.963Z'
+datePublished: '2016-04-26T23:52:19.212Z'
+dateModified: '2016-04-26T23:52:11.569Z'
 title: ''
 author:
   - name: ''
@@ -29,8 +29,9 @@ _type: Article
 
 Here lays the key to being an upstanding member of the community:
 
-* [General Members][0]
-* [Officers][1]
+[General Members][0]
+
+[Officers][1]
 
 [0]: http://bit.ly/BDO_Guidelines
-[1]: http://bit.ly/BDO_Officers
+[1]: http://bit.ly/BDO_Officer
