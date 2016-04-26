@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Welcome to the temporary home for everything related to our Black Desert Online Guild, Ascended!  Our main site once completed: www.ascendedrealms.com'
-datePublished: '2016-04-26T22:43:29.489Z'
-dateModified: '2016-04-26T22:39:37.414Z'
+description: 'Welcome to the temporary home for everything related to our Black Desert Online Guild, Ascended! Our main site once completed: www.ascendedrealms.com'
+datePublished: '2016-04-26T22:44:03.820Z'
+dateModified: '2016-04-26T22:43:56.085Z'
 title: Ascended
 author:
   - name: ''
