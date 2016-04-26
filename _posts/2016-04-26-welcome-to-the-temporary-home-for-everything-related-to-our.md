@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Welcome to the temporary home for everything related to our Black Desert Online Guild, Ascended !'
-datePublished: '2016-04-26T20:51:43.263Z'
-dateModified: '2016-04-26T20:51:42.903Z'
+description: 'Welcome to the temporary home for everything related to our Black Desert Online Guild, Ascended!'
+datePublished: '2016-04-26T20:53:33.741Z'
+dateModified: '2016-04-26T20:53:33.207Z'
 title: ''
 author:
   - name: ''
@@ -26,4 +26,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0560022a-dd71-4bc7-a9ca-5e26fb4f5394.png)
 
-Welcome to the temporary home for everything related to our Black Desert Online Guild, Ascended !
+Welcome to the temporary home for everything related to our Black Desert Online Guild, Ascended!
