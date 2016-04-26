@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Here are general guidelines we expect all members to follow;
-datePublished: '2016-04-26T20:55:17.869Z'
-dateModified: '2016-04-26T20:55:13.338Z'
+datePublished: '2016-04-26T20:56:53.515Z'
+dateModified: '2016-04-26T20:55:27.121Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-here-are-general-guidelines-we-expect-all-members-to-follow.md
