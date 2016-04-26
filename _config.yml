@@ -1,0 +1,28 @@
+name: 'ASCENDED | BLACK DESERT ONLINE'
+favicon: null
+layout_spectrum: 0.773223350290209
+typography_spectrum: 0.22260021697729826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6044573320541531
+  lightness: 0.23003230802714825
+  saturation: 0.5394992723595351
+  rhythmicContrast: 0.0634073568508029
+purpose: []
