@@ -6,10 +6,10 @@ color:
     - '#393d49'
     - '#eeeeee'
     - '#b1b2b4'
-  brandStrength: 0
+  brandStrength: 0.063345
   lightness: 0.5
-  rhythmicContrast: 1
-  saturation: 0.875
+  rhythmicContrast: 0.758446
+  saturation: 0.771115
 cta: {}
 layout_spectrum: 0.608108
 name: ASCENDED BLACK DESERT ONLINE
