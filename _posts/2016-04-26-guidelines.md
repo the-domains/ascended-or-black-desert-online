@@ -1,15 +1,16 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Here lays the key to being an upstanding member of the community:'
-datePublished: '2016-04-26T22:21:04.908Z'
-dateModified: '2016-04-26T22:20:59.371Z'
+datePublished: '2016-04-26T22:24:02.951Z'
+dateModified: '2016-04-26T22:23:10.416Z'
 title: Guidelines
 author: []
+sourcePath: _posts/2016-04-26-guidelines.md
+published: true
 authors: []
 publisher:
   name: null
@@ -17,8 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-guidelines.md
-published: true
+url: guidelines/index.html
 _context: 'http://schema.org'
 _type: Article
 
