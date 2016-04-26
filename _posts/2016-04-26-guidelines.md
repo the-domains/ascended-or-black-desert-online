@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Here lays the key to being an upstanding member of the community:'
-datePublished: '2016-04-26T22:24:02.951Z'
-dateModified: '2016-04-26T22:23:10.416Z'
-title: Guidelines
-author: []
+datePublished: '2016-04-26T22:37:34.933Z'
+dateModified: '2016-04-26T22:37:30.348Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-26-guidelines.md
 published: true
 authors: []
@@ -23,7 +25,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![K](https://the-grid-user-content.s3-us-west-2.amazonaws.com/186c5d14-8a26-4b68-8f10-7b02b1b4948a.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f1e793-fa49-4706-b2e8-8beebffd0640.png)
 
 Here lays the key to being an upstanding member of the community:
 
