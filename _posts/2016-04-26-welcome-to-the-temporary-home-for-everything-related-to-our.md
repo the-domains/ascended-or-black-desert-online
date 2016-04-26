@@ -1,18 +1,23 @@
 ---
-authors: []
-dateModified: '2016-04-26T21:41:00.767Z'
-datePublished: '2016-04-26T21:41:14.913Z'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-publisher: {}
-title: Ascended
 description: 'Welcome to the temporary home for everything related to our Black Desert Online Guild, Ascended!'
+datePublished: '2016-04-26T21:52:20.856Z'
+dateModified: '2016-04-26T21:51:54.514Z'
+title: Ascended
 author: []
-starred: false
 sourcePath: _posts/2016-04-26-welcome-to-the-temporary-home-for-everything-related-to-our.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: welcome-to-the-temporary-home-for-everything-related-to-our/index.html
 _type: Article
 
