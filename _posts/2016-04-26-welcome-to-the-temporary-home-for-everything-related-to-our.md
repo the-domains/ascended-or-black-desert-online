@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Welcome to the temporary home for everything related to our Black Desert Online Guild, Ascended!'
-datePublished: '2016-04-26T20:53:33.741Z'
-dateModified: '2016-04-26T20:53:33.207Z'
+datePublished: '2016-04-26T20:55:30.443Z'
+dateModified: '2016-04-26T20:55:00.661Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: welcome-to-the-temporary-home-for-everything-related-to-our/index.html
 _type: Article
 
