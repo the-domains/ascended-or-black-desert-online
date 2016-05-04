@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'We use Discord as our main form of communication; feel free to join us there!'
-datePublished: '2016-04-26T22:38:03.263Z'
-dateModified: '2016-04-26T22:37:52.698Z'
+datePublished: '2016-05-04T01:18:03.520Z'
+dateModified: '2016-05-04T01:17:51.642Z'
 title: Discord
 author: []
 sourcePath: _posts/2016-04-26-we-use-discord-as-our-main-form-of-communication-feel-free.md
