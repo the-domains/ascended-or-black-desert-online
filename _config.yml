@@ -22,7 +22,7 @@ color:
     - '#eeeeee'
     - '#b1b2b4'
   brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  lightness: 0
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
